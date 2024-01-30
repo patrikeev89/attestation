@@ -1,0 +1,15 @@
+C:\Users\patri\Desktop\ATTESTATION\TASK_3\bin\Debug\net6.0\TASK_3.exe
+C:\Users\patri\Desktop\ATTESTATION\TASK_3\bin\Debug\net6.0\TASK_3.deps.json
+C:\Users\patri\Desktop\ATTESTATION\TASK_3\bin\Debug\net6.0\TASK_3.runtimeconfig.json
+C:\Users\patri\Desktop\ATTESTATION\TASK_3\bin\Debug\net6.0\TASK_3.dll
+C:\Users\patri\Desktop\ATTESTATION\TASK_3\bin\Debug\net6.0\TASK_3.pdb
+C:\Users\patri\Desktop\ATTESTATION\TASK_3\obj\Debug\net6.0\TASK_3.csproj.AssemblyReference.cache
+C:\Users\patri\Desktop\ATTESTATION\TASK_3\obj\Debug\net6.0\TASK_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Desktop\ATTESTATION\TASK_3\obj\Debug\net6.0\TASK_3.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\ATTESTATION\TASK_3\obj\Debug\net6.0\TASK_3.AssemblyInfo.cs
+C:\Users\patri\Desktop\ATTESTATION\TASK_3\obj\Debug\net6.0\TASK_3.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\ATTESTATION\TASK_3\obj\Debug\net6.0\TASK_3.dll
+C:\Users\patri\Desktop\ATTESTATION\TASK_3\obj\Debug\net6.0\refint\TASK_3.dll
+C:\Users\patri\Desktop\ATTESTATION\TASK_3\obj\Debug\net6.0\TASK_3.pdb
+C:\Users\patri\Desktop\ATTESTATION\TASK_3\obj\Debug\net6.0\TASK_3.genruntimeconfig.cache
+C:\Users\patri\Desktop\ATTESTATION\TASK_3\obj\Debug\net6.0\ref\TASK_3.dll
